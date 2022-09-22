@@ -1,2 +1,2 @@
 # LP2
-Projetos
+Projetos realizados para matéria de Linguagem de Programação II
